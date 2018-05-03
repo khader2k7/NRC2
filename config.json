@@ -6,6 +6,8 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
+"default_lang" : "en",
+"languages": {"ar": "عربي","en": "English"},
 "siteurl": "http://www.imlearning.net/lms",
 "sync_ws_on" : true,
 "sync_css_on" : true,
@@ -13,7 +15,6 @@
 "log_length" : 100,
 "dev_debug": false,
 "extra_js": [],
-"demo_sites": [],
 "notifications_enabled": true,
 "gcmpn": "694767596569"
 }
