@@ -1,5 +1,5 @@
 {
-"app_id" : "com.leoneconnect.emobile",
+"app_id" : "com.imlearning.moodle",
 "versioncode" : "385",
 "versionname" : "1.11",
 "cache_expiration_time" : 300000,
@@ -7,6 +7,7 @@
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
 "presets" : {"url": "http://www.imlearning.net/lms", "username": "demo"},
+"siteurl": "http://www.imlearning.net/lms",
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
